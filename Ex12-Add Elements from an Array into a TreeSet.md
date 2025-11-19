@@ -36,7 +36,8 @@ public class ArrayToTreeSet {
 
 ```
 ## OUTPUT 
-<img width="925" height="78" alt="image" src="https://github.com/user-attachments/assets/22d8f7fe-02ed-49a6-8a2f-9e819ed1eaaf" />
+<img width="728" height="633" alt="image" src="https://github.com/user-attachments/assets/22497514-1f81-4585-8cbf-b9b4ddd279ad" />
+
 
 ## RESULT
 The program successfully adds elements from an array into a TreeSet and displays them in sorted order.

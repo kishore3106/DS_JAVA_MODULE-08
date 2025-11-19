@@ -42,7 +42,7 @@ public class TreeMapValueCheck {
 ```
 
 ## OUIPUT
-<img width="940" height="83" alt="image" src="https://github.com/user-attachments/assets/e585fc8c-6505-4803-8863-ecefe234ea15" />
+<img width="1091" height="793" alt="image" src="https://github.com/user-attachments/assets/f4bd3cf4-c0ae-4991-81d3-2653f1dc3e8e" />
 
 ## RESULT
 Thus, the program successfully checks whether a specified value exists in a TreeMap using the containsValue() method.

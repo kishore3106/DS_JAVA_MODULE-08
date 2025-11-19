@@ -44,7 +44,7 @@ public class FirstUniqueTracker {
 }
 ```
 ## OUTPUT
-<img width="936" height="90" alt="image" src="https://github.com/user-attachments/assets/76de0264-f97f-4409-b58b-edeec11b670a" />
+<img width="860" height="719" alt="image" src="https://github.com/user-attachments/assets/419d5d2f-f551-409c-be4c-d1225fdba393" />
 
 ## RESULT
 The program successfully tracks and returns the first unique number at any point in the integer stream using a LinkedHashMap.
